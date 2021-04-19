@@ -1,4 +1,4 @@
-package Chapter1;
+package Chapter1.ex1;
 
 public enum Color {
     RED,

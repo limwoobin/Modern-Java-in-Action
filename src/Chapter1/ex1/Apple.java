@@ -1,6 +1,6 @@
-package Chapter1;
+package Chapter1.ex1;
 
-import static Chapter1.Color.GREEN;
+import static Chapter1.ex1.Color.GREEN;
 
 public class Apple {
     private Color color;

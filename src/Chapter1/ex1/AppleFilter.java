@@ -1,10 +1,10 @@
-package Chapter1;
+package Chapter1.ex1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import static Chapter1.Color.GREEN;
+import static Chapter1.ex1.Color.GREEN;
 
 public class AppleFilter {
     public static List<Apple> filterApples(List<Apple> inventory , Predicate<Apple> p) {
